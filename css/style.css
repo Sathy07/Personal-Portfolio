@@ -6,7 +6,7 @@ body { font-family: Arial, sans-serif; line-height: 1.6; }
 .navbar li a:hover { background: #444; }
 .container { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
 .hero { text-align: center; padding: 4rem 1rem; }
-.avatar { width: 150px; border-radius: 50%; }
+.avatar { width: 150px; }
 .button { display: inline-block; padding: 0.75rem 1.5rem; margin: 1rem 0; background: #007acc; color: #fff; text-decoration: none; border-radius: 5px; }
 .button:hover { background: #005fa3; }
 .projects-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.5rem; }
